@@ -5,7 +5,7 @@ permalink: /about/
 
 # About
 
-This is a starter template for a mkdocs jekyll theme, based on these two
+This is a starter template for a mkdocss jekyll theme, based on these two
 previous beauties:
 
  - [alexcarpenter/material-jekyll-theme](http://alexcarpenter.github.io/material-jekyll-theme)
