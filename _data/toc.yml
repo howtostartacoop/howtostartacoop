@@ -1,0 +1,35 @@
+- title: "Introduction"
+  url: "docs/introduction"
+- title: "Manual"
+  url: "docs/introduction"
+  children:
+    - title: Step 1
+      url: "docs/step1"
+    - title: Selecting a Business Idea
+      url: "docs/selecting-a-business-idea/"
+    - title: Step 2
+      url: "docs/step2"
+    - title: Guidelines for Successful Meetings
+      url: "docs/meeting-guidelines/"
+    - title: Step 3
+      url: "docs/step3/"
+    - title: Step 4
+      url: "docs/step4/"
+    - title: Essential Business Planning Elements
+      url: "docs/businessplanningelements/"
+    - title: Step 5
+      url: "docs/step5/"
+    - title: Step 6
+      url: "docs/step6/"
+    - title: Board of Directors Responsibilities
+      url: "docs/bodresponsibilities/"
+    - title: Step 7
+      url: "docs/step7/"
+    - title: General Manager Job Description
+      url: "docs/jobdescription/"
+    - title: Step 8
+      url: "docs/step8/"
+    - title: Keys to Success
+      url: "docs/keystosuccess/"
+- title: "News"
+  url: "news"
