@@ -6,7 +6,7 @@ permalink: /
 
 # How to Start a Coop
 
-This site is dedicated to helping you start your a cooperative. Our information is compiled from a variety of sources including the Democracy at Work Institute, the Center for Cooperatives, the Sustainable Economies Law Center, and the NW Cooperative Foundation. We have tried our best to make the process as simple as possible.
+This site is dedicated to helping you start your a cooperative. Our information is compiled from a variety of sources including the [Democracy at Work Institute](https://institute.coop/), [the Center for Cooperatives](https://uwcc.wisc.edu/), [the Sustainable Economies Law Center](https://www.theselc.org/), and the [Cooperative Development Foundation](https://www.cdf.coop/). One major resource we relied heavily on is *Steps to Starting a Worker Co-op* by Gary Hansen. We have tried our best to make the process as simple as possible.
 
 ## Questions
 To ask a question on any topic covered on this site, click the ellipses and then click "Ask a Question".
