@@ -1,3 +1,4 @@
+# README IN PROGRESS
 # How to Start a Coop
 ## Usage
 
@@ -10,4 +11,4 @@ git clone https://github.com/howtostartacoop/howtostartacoop.git
 cd howtostartacoop
 ```
 
-### 2. Edit
+### 2. Edit using a markdown editor
