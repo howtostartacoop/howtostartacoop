@@ -9,6 +9,7 @@ Critical items to know are:
 - Changed Text / Who Changed Them
 - Adjustments to Theme
 - Adjustments to Config
+- News Updates
 
 ## Version  1
  - Start of Docs
