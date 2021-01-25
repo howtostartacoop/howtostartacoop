@@ -1,5 +1,5 @@
 # README IN PROGRESS
-# How to Start a Coop
+# [How to Start a Coop](https://howtostartacoop.ml/)
 ## Usage
 
 ### 1. Get the code
