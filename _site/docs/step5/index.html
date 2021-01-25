@@ -128,6 +128,12 @@
                 
                 <li class="md-nav__item">
                   <a class="md-nav__link" href="/docs/introduction"
+                     id="pancakes-introduction" 
+                     title="Introduction">Introduction</a>
+                </li>
+                
+                <li class="md-nav__item">
+                  <a class="md-nav__link" href="/docs/introduction"
                      id="pancakes-manual" 
                      title="Manual">Manual</a>
                 </li>
@@ -144,6 +150,8 @@
 
           <!-- This navigation is completely for mobile -->
           <li class="md-nav__item mobile-nav" style="display:none">
+            <a class="md-nav__link" href="/docs/introduction" title="Introduction">Introduction</a>
+          </li><li class="md-nav__item mobile-nav" style="display:none">
             <a class="md-nav__link" href="/docs/introduction" title="Manual">Manual</a>
           </li><li class="md-nav__item mobile-nav" style="display:none">
             <a class="md-nav__link" href="/news" title="News">News</a>
@@ -151,6 +159,12 @@
 
           <!-- This navigation is completely for non mobile -->
          
+         <li class="md-nav__item md-nav__item--nested not-mobile-nav">
+             <a class="md-nav__link pancakes-parent" href="/docs/introduction"
+                id="pancakes-introduction" 
+                title="Introduction">Introduction</a>
+                
+         </li>
          <li class="md-nav__item md-nav__item--nested not-mobile-nav">
              <a class="md-nav__link pancakes-parent" href="#pancakes-manual"
                 id="pancakes-manual" 
@@ -364,12 +378,12 @@ $(document).ready(function() {
         var start = '<div class="dropdown more"><span><i class="fa fa-ellipsis-h more" title="Edit"></i></span><div class="dropdown-content">';
 
         // Edit (assuming deployed under main organization repo)
-        var link = "https://github.com/howtostartacoop/howtostartacoop/edit/master/_docs/Step 5.md#" + did;
+        var link = "https://github.com/howtostartacoop/howtostartacoop/edit/master/_docs/8Step 5.md#" + did;
         var button = "<p><a href='" + link + "' target='_blank'>Edit this page</a></p>";
         start += button;
 
         // Issues;
-        var link = "https://github.com/howtostartacoop/howtostartacoop/issues/new?labels=question&title=Question:&body=Question on: https://github.com/howtostartacoop/howtostartacoop/tree/master/_docs/Step 5.md%23" + did;
+        var link = "https://github.com/howtostartacoop/howtostartacoop/issues/new?labels=question&title=Question:&body=Question on: https://github.com/howtostartacoop/howtostartacoop/tree/master/_docs/8Step 5.md%23" + did;
 
         var button = "<p><a href='" + link + "' target='_blank'>Ask a Question</a></p>";
         start += button;
