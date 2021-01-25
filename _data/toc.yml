@@ -1,3 +1,5 @@
+- title: "Introduction"
+  url: "docs/introduction"
 - title: "Manual"
   url: "docs/introduction"
   children:
